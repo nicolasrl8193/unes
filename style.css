@@ -27,14 +27,14 @@
 	text-align: center;
 }
 
-.list {
-	display: flex;
-	list-style: none;
-}
-
 .item {
 	align-self: center;
 	padding: 0 1em;
+}
+
+.list {
+	display: flex;
+	list-style: none;
 }
 
 .nav {
