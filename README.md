@@ -1,2 +1,1 @@
-# unes
-Primeiro projeto do curso Desenvolvimento Web Completo - 20 cursos + 20 projetos que eu estou fazendo na Udemy.
+![Imagem de demonstração da plataforma UNES desenvolvida durante o curso Desenvolvimento Web Completo - 20 cursos + 20 projetos](imgs/demo.png)
